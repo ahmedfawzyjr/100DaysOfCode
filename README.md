@@ -1,4 +1,4 @@
-# 🚀 #100DaysOfCode: The Complete Python Pro Bootcamp
+# 🚀 #100DaysOfCode:
 ------------------------------------------------------
 Welcome to the 100 Days of Code: Python Pro Bootcamp journey! This repository tracks my progress as I learn Python by building 100 projects in 100 days. Each day includes lectures, hands-on projects, and practical applications in data science, automation, web development, game design, and more.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
